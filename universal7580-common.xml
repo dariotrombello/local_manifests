@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gitlab" fetch="ssh://git@gitlab.com" />
+  <project name="dotOS-Devices/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="github" revision="dot-p" />
+  <project name="dotOS-Devices/vendor_samsung_universal7580-common" path="vendor/samsung/universal7580-common" remote="github" revision="dot-p" />
+  <project name="Exynos7580/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="gitlab" revision="lineage-16.0" />
+
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+</manifest>

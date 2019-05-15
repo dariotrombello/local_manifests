@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="dotOS-Devices/android_device_samsung_a3xelte" path="device/samsung/a3xelte" remote="github" revision="dot-p" />
+  <project name="dotOS-Devices/vendor_samsung_a3xelte" path="vendor/samsung/a3xelte" remote="github" revision="dot-p" />
+</manifest>
